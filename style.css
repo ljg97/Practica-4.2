@@ -1,0 +1,72 @@
+body {
+    background-color: moccasin ;
+}
+#encabezadoIndex{
+    color: indianred;
+    font-size: larger;
+    position: relative;
+    left: 40%;
+}
+#encabezadoCarta{
+    color: indianred;
+    font-size: larger;
+    position: relative;
+    left: 40%;
+}
+#encabezadoCafe{
+    color: indianred;
+    font-size: larger;
+    position: relative;
+    left: 40%;
+}
+#encabezadoContacto{
+    color: indianred;
+    font-size: larger;
+    position: relative;
+    left: 40%;
+}
+p.carta_txt{
+    font-size: larger;
+    position:relative ;
+}
+img.carta_img{
+    width: 200px;
+    height: 200px; 
+    position: relative;
+    top: 100px;
+}
+p.cafe_txt{
+    font-size: larger;
+    position:relative ;
+    left: 40%;
+    top: 50%;
+}
+img.cafe_img{
+    width: 150px;
+    height: 150px; 
+    position: relative;
+    top: 50px;
+}
+p.contacto_txt{
+    font-size: larger;
+    position:relative ;
+    left: 80%;
+}
+img.contacto_img{
+    width: 200px;
+    height: 200px; 
+    position: relative;
+    top: 100px;
+}
+section.carta{
+    font-size: x-large;
+    color: sienna;
+}
+section.cafe{
+    font-size: x-large;
+    color: sienna;
+}
+section.contacto{
+    font-size: x-large;
+    color: sienna;
+}
